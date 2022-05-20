@@ -1,3 +1,36 @@
 .App {
   text-align: center;
+  background-color: aqua;
+  color: coral;
+  font-variant: small-caps;
+}
+
+body{
+  background-color: lightcyan;
+}
+
+input {
+  padding: 4px;
+  margin-right: 8px;
+
+}
+
+ol {
+  list-style: none;
+}
+
+li{
+  margin: 12px 0;
+  font-size: 35px;
+}
+
+.delete-button{
+  font-size: 10px;
+  margin-left: 8px;
+  
+}
+button{
+  background-color: blueviolet;
+  color: white;
+  font-weight: 700;
 }
