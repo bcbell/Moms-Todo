@@ -22,6 +22,7 @@ ol {
 li{
   margin: 12px 0;
   font-size: 35px;
+  border-style: outset;
 }
 
 .delete-button{
@@ -33,4 +34,7 @@ button{
   background-color: blueviolet;
   color: white;
   font-weight: 700;
+  border-radius: 25px;
+
+
 }
